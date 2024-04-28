@@ -16,4 +16,4 @@ My name is Elena and I'm a beginner frontend developer. I am passionate about we
     <img src="https://img.icons8.com/officel/40/000000/react.png"/>
 </div>
 
-###  Contact Me[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30">] (https://t.me/ElnaBT)
+###  Contact Me[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30">](https://t.me/ElnaBT)
