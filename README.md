@@ -1,5 +1,5 @@
 # Hello Everyone! 👋
-<img src="https://img.freepik.com/premium-vector/girl-using-laptop-vector-illustration-flat-style-cartoon-character_1142-64091.jpg?w=826" width="250" height="250">
+<img src="https://img.freepik.com/premium-vector/digital-workers-no-maiden-working-flat-vector_864013-961.jpg?w=826" width="250" height="250">
 
 
 ## About Me
