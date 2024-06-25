@@ -5,10 +5,10 @@
 ## Меня зовут Елена
 Frontend-разработчик
 ---
- [SPA для изучения английского языка](https://elboyko.github.io/react-english-words/)
- [Верстка лендинга школы программирования](https://elboyko.github.io/Kontur/)
- [Верстка первой страницы магазина по продаже чая](https://elboyko.github.io/TeaSite/)
- [Киносайт - js-проект](https://elboyko.github.io/js-project/)
+ -[SPA для изучения английского языка](https://elboyko.github.io/react-english-words/)
+ -[Верстка лендинга школы программирования](https://elboyko.github.io/Kontur/)
+ -[Верстка первой страницы магазина по продаже чая](https://elboyko.github.io/TeaSite/)
+ -[Киносайт - js-проект](https://elboyko.github.io/js-project/)
 ---  
 
 ## My Skills
