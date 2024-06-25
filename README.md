@@ -2,8 +2,13 @@
 <img src="https://img.freepik.com/premium-vector/digital-workers-no-maiden-working-flat-vector_864013-961.jpg?w=826" width="250" height="250">
 
 
-## About Me
-My name is Elena and I'm a beginner frontend developer. I am passionate about web development technologies and aspire to become a skilled developer.
+## Меня зовут Елена
+Frontend-разработчик
+### Верстка лендинга школы программирования (https://elboyko.github.io/Kontur/)
+
+
+
+
 
 ## My Skills
 <div style="display: inline;">
