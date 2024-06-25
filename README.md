@@ -4,7 +4,7 @@
 
 ## Меня зовут Елена
 Frontend-разработчик
-### Верстка лендинга школы программирования (https://elboyko.github.io/Kontur/)
+ [Верстка лендинга школы программирования] (https://elboyko.github.io/Kontur/)
 
 
 
