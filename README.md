@@ -1,29 +1,34 @@
 # Hello Everyone! 👋
-<img src="https://img.freepik.com/premium-vector/digital-workers-no-maiden-working-flat-vector_864013-961.jpg?w=826" width="250" height="250">
-
-
-## Меня зовут Елена
-### Frontend-разработчик
 ---
+📫 Контакты :
+<div id="badges">
+  <a href="https://t.me/ElnaBT">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-* [SPA для изучения английского языка](https://elboyko.github.io/react-english-words/)
-* [Верстка лендинга школы программирования](https://elboyko.github.io/Kontur/)
-* [Верстка первой страницы магазина по продаже чая](https://elboyko.github.io/TeaSite/)
-* [Киносайт - js-проект](https://elboyko.github.io/js-project/)
-* [Центр семьи и детства](https://lenaanohina.github.io/project2_fund/)
-* [Портфолио с основными работами](https://elboyko.github.io/portfolio/)
+----
+💻 Технологии : <br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+👨‍💻 Что умею  : 
+
+### [Приложение на React для изучения  и запоминания английских слов](https://elboyko.github.io/react-english-words/)
+
+
+---
+### [Верстка лендинга школы программирования](https://elboyko.github.io/Kontur/)
+### [Верстка первой страницы магазина по продаже чая](https://elboyko.github.io/TeaSite/)
+### [Киносайт - js-проект](https://elboyko.github.io/js-project/)
+### [Центр семьи и детства](https://lenaanohina.github.io/project2_fund/)
+### [Портфолио с основными работами](https://elboyko.github.io/portfolio/)
    
 ---  
 
-## My Skills
-<div style="display: inline;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/windows/48/000000/sass.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/officel/40/000000/react.png"/>
-</div>
 
-###  Contact Me[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30">](https://t.me/ElnaBT)
