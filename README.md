@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/elena-boyko-4927baa2/">
-      <img src="https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 </div>
