@@ -9,6 +9,8 @@
   <a href="https://t.me/ElnaBT">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+
+
 </div>
 
 ----
@@ -21,7 +23,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![image](https://github.com/user-attachments/assets/ac4f2638-73b0-4145-af30-cffdf8e15580)
+![image](https://github.com/user-attachments/assets/a9916c0b-4e6d-43ca-834f-bdb427d3b7d3)
+
 
 
 
