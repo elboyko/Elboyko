@@ -24,8 +24,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![image]([https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148](https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148))
-
+![image](https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148)
 
 
 
