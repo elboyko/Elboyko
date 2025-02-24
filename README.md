@@ -20,6 +20,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-1572B6?style=for-the-badge&logo=next3&logoColor=white)
+![image](https://github.com/user-attachments/assets/fb9843cd-612b-4385-bd42-55a544843032)
+
 
 
 
