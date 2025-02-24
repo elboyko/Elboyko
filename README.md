@@ -26,7 +26,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![image](https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148)
 
-
+![TypeScript](https://github.com/user-attachments/assets/190db9dc-918f-4807-a96f-79fa76da0148)
 
 
 
