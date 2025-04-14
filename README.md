@@ -35,7 +35,7 @@
 ---
 👨‍💻 Что умею  : 
 
-### [Портфолио с основными работами](https://elboyko.github.io/portfolio/)
+### [Портфолио с основными работами](https://elboyko.github.io/portfolio-react/)
 Одностраничное SPA c использованием React
 
 ---  
